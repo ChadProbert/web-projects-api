@@ -1,0 +1,16 @@
+[
+	{
+		"id": 1,
+		"title": "Minesweeper",
+		"description": "Minesweeper application created using Create React App",
+		"URL": "https://minesweeper-react-app.herokuapp.com/",
+		"Repository": "https://github.com/ChadProbert/minesweeper-react-app"
+	},
+	{
+		"id": 2,
+		"title": "Resume",
+		"description": "Resume created using HTML and CSS",
+		"URL": "https://chadprobert.github.io/Chad-Probert-Resume/",
+		"Repository": "https://github.com/ChadProbert/Chad-Probert-Resume"
+	}
+]
